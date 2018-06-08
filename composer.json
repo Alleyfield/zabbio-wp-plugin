@@ -1,0 +1,16 @@
+{
+    "name": "alleyfield/zabbio",
+    "description": "Zabb.io plugin for wordpress",
+    "keywords": ["wordpress", "plugin", "zabbio", "zabb.io"],
+    "homepage": "https://zabb.io",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+        "name": "Alleyfield Ltd",
+        "homepage": "www.alleyfield.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "v1.2.0"
+    }
+}
